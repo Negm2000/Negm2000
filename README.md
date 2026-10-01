@@ -30,10 +30,13 @@ Software engineer in Milan. I build things that touch hardware: industrial deskt
 | [Xonix-x86-assembly](https://github.com/Negm2000/Xonix-x86-assembly) | Two-player arcade game written by hand in 16-bit x86 assembly for DOS, about 4,800 lines (2022). | x86 assembly |
 | [ros2-mecanum-bot](https://github.com/Negm2000/ros2-mecanum-bot) | `ros2_control` hardware interface over serial and wheel odometry for a mecanum tour-guide robot. B.Sc. graduation project (A+). | C++, ROS 2 |
 | [ATmega32-Star-Framework](https://github.com/Negm2000/ATmega32-Star-Framework) | Bare-metal GPIO, timer, UART and LCD drivers for the ATmega32, written from the datasheet. | C |
+| [AVR-Traffic-Light](https://github.com/Negm2000/AVR-Traffic-Light) | Traffic light with a pedestrian button on an ATmega32, driven by a timer and an external interrupt. Udacity EgFWD Embedded Systems track. | C |
+| [Terminal-Payment-Simulator](https://github.com/Negm2000/Terminal-Payment-Simulator) | Card, terminal and server modules of a payment flow in C, with Luhn and expiry checks. Udacity EgFWD Embedded Systems track. | C |
 | [Seesaw](https://github.com/Negm2000/Seesaw) | Balancing an open-loop-unstable cart and seesaw on real Quanser hardware. I designed the pole-placement controller and observer and wrote the test protocol used to compare all controllers. | MATLAB, Simulink |
 | [Tram-DC-Drive-Simulink](https://github.com/Negm2000/Tram-DC-Drive-Simulink) | DC traction drive for a 25 t tram with cascaded current/speed control and field weakening. | Simulink |
 | [Networked-Control](https://github.com/Negm2000/Networked-Control) | Centralized vs. decentralized vs. distributed LMI control of coupled pendula. | MATLAB, YALMIP |
 | [cancer-histopathology](https://github.com/Negm2000/cancer-histopathology) | Team entry that placed 4th of 196 in breast-cancer subtype classification. | PyTorch |
 | [Danfoss-Challenge](https://github.com/Negm2000/Danfoss-Challenge) | Log parser that turns messy, multi-line log files into JSON, streaming line by line so memory stays flat on very large files. | C# |
+| [snakes-and-ladders-cpp](https://github.com/Negm2000/snakes-and-ladders-cpp) | Graphics and input layer of a Snakes & Ladders board editor. Team course project. | C++ |
 
 [LinkedIn](https://www.linkedin.com/in/karim-y-negm/) · karim.y.negm@gmail.com

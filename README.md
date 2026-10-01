@@ -37,6 +37,6 @@ Software engineer in Milan. I build things that touch hardware: industrial deskt
 | [Networked-Control](https://github.com/Negm2000/Networked-Control) | Centralized vs. decentralized vs. distributed LMI control of coupled pendula. | MATLAB, YALMIP |
 | [cancer-histopathology](https://github.com/Negm2000/cancer-histopathology) | Team entry that placed 4th of 196 in breast-cancer subtype classification. | PyTorch |
 | [Danfoss-Challenge](https://github.com/Negm2000/Danfoss-Challenge) | Log parser that turns messy, multi-line log files into JSON, streaming line by line so memory stays flat on very large files. | C# |
-| [snakes-and-ladders-cpp](https://github.com/Negm2000/snakes-and-ladders-cpp) | Graphics and input layer of a Snakes & Ladders board editor. Team course project. | C++ |
+| [snakes-and-ladders-cpp](https://github.com/Negm2000/snakes-and-ladders-cpp) | Four-player Snakes & Ladders with Monopoly-style cards, power-ups and a board editor. Team course project; I wrote the play-mode actions and save/load. | C++ |
 
 [LinkedIn](https://www.linkedin.com/in/karim-y-negm/) · karim.y.negm@gmail.com

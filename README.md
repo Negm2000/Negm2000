@@ -7,11 +7,13 @@ Software engineer in Milan. I build things that touch hardware: industrial deskt
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/Negm2000/CADBOARD"><img src="https://raw.githubusercontent.com/Negm2000/CADBOARD/main/docs/cadboard_pipeline.gif" alt="CADBOARD fitting a DXF drawing to a photo of the part and flagging creases"></a></td>
-<td width="50%"><a href="https://github.com/Negm2000/ros2-mecanum-bot"><img src="assets/robot_base.jpg" alt="Mecanum drive base of the tour-guide robot"></a></td>
+<td width="33%"><a href="https://github.com/Negm2000/CADBOARD"><img src="https://raw.githubusercontent.com/Negm2000/CADBOARD/main/docs/cadboard_pipeline.gif" alt="CADBOARD fitting a DXF drawing to a photo of the part and flagging creases"></a></td>
+<td width="33%"><a href="https://github.com/Negm2000/Xonix-x86-assembly"><img src="https://raw.githubusercontent.com/Negm2000/Xonix-x86-assembly/main/docs/xonix_gameplay.gif" alt="Two-player Xonix running in DOSBox"></a></td>
+<td width="33%"><a href="https://github.com/Negm2000/ros2-mecanum-bot"><img src="assets/robot_base.jpg" alt="Mecanum drive base of the tour-guide robot"></a></td>
 </tr>
 <tr>
 <td><b>CADBOARD</b>: checks a part against its CAD drawing from a camera image</td>
+<td><b>Xonix</b>: two-player arcade game in hand-written x86 assembly</td>
 <td><b>ros2-mecanum-bot</b>: ROS 2 drive, odometry and visitor GUI for a tour-guide robot</td>
 </tr>
 </table>

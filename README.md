@@ -5,6 +5,17 @@ Software engineer in Milan. I build things that touch hardware: industrial deskt
 - **Now:** R&D Software Engineer at Danfoss, working on the PC software used to commission and diagnose servo drives (C#, .NET, WPF/MVVM), tested on real drives over EtherCAT, PROFINET and POWERLINK. That code is closed source, so what's here is university and personal work.
 - **Studying:** M.Sc. Automation and Control Engineering at Politecnico di Milano. B.Sc. Mechatronics, Cairo University.
 
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Negm2000/CADBOARD"><img src="https://raw.githubusercontent.com/Negm2000/CADBOARD/main/docs/cadboard_pipeline.gif" alt="CADBOARD fitting a DXF drawing to a photo of the part and flagging creases"></a></td>
+<td width="50%"><a href="https://github.com/Negm2000/ros2-mecanum-bot"><img src="assets/robot_base.jpg" alt="Mecanum drive base of the tour-guide robot"></a></td>
+</tr>
+<tr>
+<td><b>CADBOARD</b>: checks a part against its CAD drawing from a camera image</td>
+<td><b>ros2-mecanum-bot</b>: ROS 2 drive, odometry and visitor GUI for a tour-guide robot</td>
+</tr>
+</table>
+
 #### Projects
 
 | Project | What it is | Stack |

@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Hello, world. I'm Karim." width="100%">
+<img src="assets/banner.svg" alt="Hello, world. I'm Karim. The rest didn't fit on the LCD." width="100%">
 
 - **Now:** R&D Software Engineer at Danfoss, working on the PC software used to commission and diagnose servo drives (C#, .NET, WPF/MVVM), tested on real drives over EtherCAT, PROFINET and POWERLINK. That code is closed source, so what's here is university and personal work.
 - **Studying:** M.Sc. Automation and Control Engineering at Politecnico di Milano. B.Sc. Mechatronics, Cairo University.

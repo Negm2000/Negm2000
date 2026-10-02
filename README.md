@@ -3,6 +3,8 @@
 - **Now:** R&D Software Engineer at Danfoss, working on the PC software used to commission and diagnose servo drives (C#, .NET, WPF/MVVM), tested on real drives over EtherCAT, PROFINET and POWERLINK. That code is closed source, so what's here is university and personal work.
 - **Studying:** M.Sc. Automation and Control Engineering at Politecnico di Milano. B.Sc. Mechatronics, Cairo University.
 
+<img src="assets/now.svg" alt="Pixel art: PC software sending commands to a servo drive that spins a motor" width="100%">
+
 <table>
 <tr>
 <td width="33%" valign="top"><img src="assets/cards/beko.svg" alt="Drawing of a control board with four connectors; the scan marks the one with no cable" width="100%"><br><b>Connector inspection for Beko</b><br>Finds missing cables on oven control boards for Beko Europe. Caught 21 of 25 real defects and passed 98.2% of good connectors.<br><sub>PyTorch, OpenCV · team of 4, I built the per-connector anomaly detection · a drawing, the real images are under NDA</sub></td>

@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Hello, world. I'm Karim. C# for industrial hardware, robotics, embedded systems, computer vision, neural networks." width="100%">
+<img src="assets/header.svg" alt="Hello, world. I'm Karim. C# for industrial hardware, robotics, embedded systems, computer vision, neural networks." width="100%">
 
 - **Now:** R&D Software Engineer at Danfoss, working on the PC software used to commission and diagnose servo drives (C#, .NET, WPF/MVVM), tested on real drives over EtherCAT, PROFINET and POWERLINK. That code is closed source, so what's here is university and personal work.
 - **Studying:** M.Sc. Automation and Control Engineering at Politecnico di Milano. B.Sc. Mechatronics, Cairo University.

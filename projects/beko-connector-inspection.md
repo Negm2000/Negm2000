@@ -1,6 +1,6 @@
 <img src="../assets/cards/beko.svg" width="100%" alt="Drawing of a control board with four connectors; a scan marks the one with no cable. A drawing, not a real Beko board.">
 
-# Connector inspection for Beko Europe
+# Beko anomaly detection
 
 Project work at Politecnico di Milano for Beko Europe's oven plant, September 2025 to February 2026. Team of 4, graded 30/30. My part was the anomaly detector and its thresholds.
 
